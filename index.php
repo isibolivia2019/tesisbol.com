@@ -228,11 +228,11 @@
 <div class="container">
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <h3><small>Dinos lo que</small>NECESITAS</h3><span class="line"></span>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida velit quis lorem ipsum dola dolor tristiqumsan.</p>
+<p>Nuestro compromiso es ayudarte a obtener los resultados que esperas.</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.75s">
 <h3><small>Nuestros especialistas</small>INVESTIGAN POR TI</h3><span class="line"></span>
-<p>Etiam aliquam lacinia rutrum. Sed sit amet tortor id eros suscipit semper. Suspendisse nec condimentum metus, nec porttitor risus.</p>
+<p>Analizamos cada caso y se asigna un experto en el área del conocimiento específico, con el fin de brindar el apoyo adecuado cumpliendo con los parámetros de calidad establecidos.</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="1s">
 <h3><small>La Investigacion</small> ES REVISADA DETALLADAMENTE</h3><span class="line"></span>
