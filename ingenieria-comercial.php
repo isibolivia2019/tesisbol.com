@@ -66,8 +66,8 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Ingenieria Comercial</h2>
 <hr class="light">
-<p>La ingeniería comercial es una disciplina que se utiliza a instancias de la economía y la administración para que intervenga en la búsqueda de soluciones a diversos problemas que precisamente se generan en empresas o en organizaciones, entre ellos económicos, proyectos, tecnológicos, de procedimientos y financieros. Todo problema organizacional u operacional tendrá en esta rama de la ingeniería una solución.</p>
-<p>Desde comienzos del siglo pasado, primeramente en Europa, y luego en Latinoamérica, comenzó a ser enseñada en la universidad y quienes cumplían satisfactoriamente los estudios se recibían de ingenieros comerciales pudiendo intervenir en el área de marketing de una compañía u organización y también en todo cuanto tiene que ver con la operatividad y el planeo de estrategias comerciales.</p>
+<p style="text-align: justify;">La ingeniería comercial es una disciplina que se utiliza a instancias de la economía y la administración para que intervenga en la búsqueda de soluciones a diversos problemas que precisamente se generan en empresas o en organizaciones, entre ellos económicos, proyectos, tecnológicos, de procedimientos y financieros. Todo problema organizacional u operacional tendrá en esta rama de la ingeniería una solución.</p>
+<p style="text-align: justify;">Desde comienzos del siglo pasado, primeramente en Europa, y luego en Latinoamérica, comenzó a ser enseñada en la universidad y quienes cumplían satisfactoriamente los estudios se recibían de ingenieros comerciales pudiendo intervenir en el área de marketing de una compañía u organización y también en todo cuanto tiene que ver con la operatividad y el planeo de estrategias comerciales.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

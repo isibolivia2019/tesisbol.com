@@ -66,8 +66,8 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Economia</h2>
 <hr class="light">
-<p>La Economía (o Ciencias Económicas) es una ciencia social cuyo ámbito de interés lo constituyen los modos en que una sociedad se organiza a sí misma para satisfacer sus necesidades materiales e inmateriales de consumo, a través de un ciclo de producción, distribución e intercambio de bienes que idealmente se perpetúa en el tiempo.</p>
-<p>La Economía, en otras palabras, es el estudio de los modos de organización y distribución de los bienes escasos que cada sociedad requiere y por ende produce o adquiere mediante diferentes estrategias, de modo de satisfacer la mayor cantidad de demanda a partir de un número finito de bienes tangibles o intangibles.</p>
+<p style="text-align: justify;">La Economía (o Ciencias Económicas) es una ciencia social cuyo ámbito de interés lo constituyen los modos en que una sociedad se organiza a sí misma para satisfacer sus necesidades materiales e inmateriales de consumo, a través de un ciclo de producción, distribución e intercambio de bienes que idealmente se perpetúa en el tiempo.</p>
+<p style="text-align: justify;">La Economía, en otras palabras, es el estudio de los modos de organización y distribución de los bienes escasos que cada sociedad requiere y por ende produce o adquiere mediante diferentes estrategias, de modo de satisfacer la mayor cantidad de demanda a partir de un número finito de bienes tangibles o intangibles.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

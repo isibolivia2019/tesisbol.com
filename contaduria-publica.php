@@ -66,7 +66,7 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Contaduria Publica</h2>
 <hr class="light">
-<p>La Contaduría Pública, es una disciplina de carácter científico fundamentada en una teoría específica, que a través de un proceso obtiene y comprueba información financiera sobre eventos realizados por entidades económicas, es una actividad profesional desarrollada por expertos en cuestiones contables, fiscales, financieras, auditoria y costos que se apoya en otras disciplinas como, Administración, Derecho, Economía, Sistemas de Información, Matemáticas.</p>
+<p style="text-align: justify;">La Contaduría Pública, es una disciplina de carácter científico fundamentada en una teoría específica, que a través de un proceso obtiene y comprueba información financiera sobre eventos realizados por entidades económicas, es una actividad profesional desarrollada por expertos en cuestiones contables, fiscales, financieras, auditoria y costos que se apoya en otras disciplinas como, Administración, Derecho, Economía, Sistemas de Información, Matemáticas.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

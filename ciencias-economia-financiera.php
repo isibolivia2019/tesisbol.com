@@ -66,8 +66,8 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Ciencias Economicas y Financieras</h2>
 <hr class="light">
-<p>Se llama ciencias económicas o simplemente economía a la ciencia social que estudia los modos de organización de las sociedades para satisfacer en el tiempo sus necesidades, mediante el conjunto de bienes y recursos siempre escasos y finitos.</p>
-<p>En otras palabras, se trata del estudio de la producción, extracción, intercambio, distribución y consumo de bienes y de servicios en una sociedad y una época determinadas, así como de los contextos que acompañan a toda actividad económica, tales como el gobierno, la administración, la sociedad, las finanzas, la cultura, etc. Áreas todas en las que la economía tiene más o menos aplicaciones.</p>
+<p style="text-align: justify;">Se llama ciencias económicas o simplemente economía a la ciencia social que estudia los modos de organización de las sociedades para satisfacer en el tiempo sus necesidades, mediante el conjunto de bienes y recursos siempre escasos y finitos.</p>
+<p style="text-align: justify;">En otras palabras, se trata del estudio de la producción, extracción, intercambio, distribución y consumo de bienes y de servicios en una sociedad y una época determinadas, así como de los contextos que acompañan a toda actividad económica, tales como el gobierno, la administración, la sociedad, las finanzas, la cultura, etc. Áreas todas en las que la economía tiene más o menos aplicaciones.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

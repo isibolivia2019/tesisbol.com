@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<title>:: Portfolio | Striking Interior Design Company ::</title>
+<title>Areas de Tesis</title>
 <meta name="description" content="Welcome to Striking Interior Design Template">
 <meta name="keywords" content="interior, design, services, expert, analysis, structure, luxury, home, kitchen, berdroom, living room, bathroom, kid, office, infrastructure">
 <meta name="author" content="Saptarang">

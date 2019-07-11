@@ -66,8 +66,8 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Ingenieria Ambiental</h2>
 <hr class="light">
-<p>La ingeniería ambiental es la rama de la ingeniería que estudia los problemas ambientales de forma científica e integrada, teniendo en cuenta sus dimensiones científicas: químicas, físicas, ecológicas, biológicas, geológicas, sociales, económicas y tecnológicas, con el objetivo de promover un desarrollo sostenible.</p>
-<p>Es un área de la ingeniería y rama de las ciencias ambientales que se basa en el diseño, la aplicación, y la gestión de procesos, productos y servicios tecnológicos para la prevención, el control y remedio de problemas ambientales; para el desarrollo del uso sostenible de recursos naturales en procesos productivos y de consumo, teniendo siempre como prioridad la excelente calidad de vida en nuestro entorno.</p>
+<p style="text-align: justify;">La ingeniería ambiental es la rama de la ingeniería que estudia los problemas ambientales de forma científica e integrada, teniendo en cuenta sus dimensiones científicas: químicas, físicas, ecológicas, biológicas, geológicas, sociales, económicas y tecnológicas, con el objetivo de promover un desarrollo sostenible.</p>
+<p style="text-align: justify;">Es un área de la ingeniería y rama de las ciencias ambientales que se basa en el diseño, la aplicación, y la gestión de procesos, productos y servicios tecnológicos para la prevención, el control y remedio de problemas ambientales; para el desarrollo del uso sostenible de recursos naturales en procesos productivos y de consumo, teniendo siempre como prioridad la excelente calidad de vida en nuestro entorno.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

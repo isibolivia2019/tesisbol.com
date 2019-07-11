@@ -66,8 +66,8 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Ingenieria Petrolera</h2>
 <hr class="light">
-<p>La ingeniería del petróleo, ingeniería petrolífera, ingeniería de petróleos o ingeniería petrolera es la parte de la ingeniería que combina métodos científicos y prácticos orientados al desarrollo de técnicas para descubrir, explotar, desarrollar, transportar, procesar y tratar los hidrocarburos desde su estado natural, en el yacimiento, hasta los productos finales o derivados.</p>
-<p>Los conocimientos y técnicas empleadas por los ingenieros de petróleo proceden de casi todos los campos de la ciencia, y se desarrollan constantemente debido a la incesante búsqueda de recursos y de optimización de la producción. Los principios de la Física y la Química Aplicada son empleados en todas las etapas de la explotación del hidrocarburo, desde la exploración hasta la conversión de éstos en productos de consumo.</p>
+<p style="text-align: justify;">La ingeniería del petróleo, ingeniería petrolífera, ingeniería de petróleos o ingeniería petrolera es la parte de la ingeniería que combina métodos científicos y prácticos orientados al desarrollo de técnicas para descubrir, explotar, desarrollar, transportar, procesar y tratar los hidrocarburos desde su estado natural, en el yacimiento, hasta los productos finales o derivados.</p>
+<p style="text-align: justify;">Los conocimientos y técnicas empleadas por los ingenieros de petróleo proceden de casi todos los campos de la ciencia, y se desarrollan constantemente debido a la incesante búsqueda de recursos y de optimización de la producción. Los principios de la Física y la Química Aplicada son empleados en todas las etapas de la explotación del hidrocarburo, desde la exploración hasta la conversión de éstos en productos de consumo.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

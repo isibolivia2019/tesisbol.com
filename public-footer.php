@@ -37,7 +37,7 @@
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <h5>Acerca de Nosostros</h5>
-<p>TesisBol.com ofrecemos ensayos, asignaciones y tesis de alta calidad a medida para estudiantes de Bolivia somos uno de los mejores proveedores de servicios de escritura académica, y más del 60% de nuestras actividades se repiten, porque los clientes  regresan. Empleamos sólo a los mejores escritores...</p>
+<p  style="text-align: justify;">TesisBol.com ofrecemos ensayos, asignaciones y tesis de alta calidad a medida para estudiantes de Bolivia somos uno de los mejores proveedores de servicios de escritura académica, y más del 60% de nuestras actividades se repiten, porque los clientes  regresan. Empleamos sólo a los mejores escritores...</p>
 <a href="acerca-de-nosotros.php" title="About Company">Leer más <i class="fa fa-chevron-circle-right"></i></a>
 </div>
 <div class="col-md-2 col-sm-3 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.75s">

@@ -66,7 +66,7 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Administracion Empresas</h2>
 <hr class="light">
-<p>La Administración de Empresas es una ciencia social, económica y de carácter técnico que tiene como objetivo principal lograr el máximo beneficio posible para una empresa o ente en los fines perseguidos por cada uno de ellos; mediante la organización, planificación, dirección y control de los recursos a su disposición (humanos, económicos, tecnológicos, etc).</p>
+<p style="text-align: justify;">La Administración de Empresas es una ciencia social, económica y de carácter técnico que tiene como objetivo principal lograr el máximo beneficio posible para una empresa o ente en los fines perseguidos por cada uno de ellos; mediante la organización, planificación, dirección y control de los recursos a su disposición (humanos, económicos, tecnológicos, etc).</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

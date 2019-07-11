@@ -61,10 +61,10 @@
 <img class="img-responsive" src="images/about.jpg" alt="About Striking" width="725" height="475" />
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 content-box wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.75s">
-<p class="big">TesisBol.com ofrecemos ensayos, asignaciones y tesis de alta calidad a medida para estudiantes de Bolivia somos uno de los mejores proveedores de servicios de escritura académica, y más del 60% de nuestras actividades se repiten, porque los clientes  regresan. Empleamos sólo a los mejores escritores de la industria. Nuestro gran equipo de expertos de tutores  tienen títulos de universidades) e incluye especialistas en todas las disciplinas académicas. Usted puede estar seguro de que el escritor que asignamos a su trabajo personalizado tendrá la experiencia pertinente y las calificaciones académicas para su tema. En pocas palabras  el trabajo que realizará para usted será del más alto estándar académico.</p>
+<p class="big" style="text-align: justify;">TesisBol.com ofrecemos ensayos, asignaciones y tesis de alta calidad a medida para estudiantes de Bolivia somos uno de los mejores proveedores de servicios de escritura académica, y más del 60% de nuestras actividades se repiten, porque los clientes  regresan. Empleamos sólo a los mejores escritores de la industria. Nuestro gran equipo de expertos de tutores  tienen títulos de universidades) e incluye especialistas en todas las disciplinas académicas. Usted puede estar seguro de que el escritor que asignamos a su trabajo personalizado tendrá la experiencia pertinente y las calificaciones académicas para su tema. En pocas palabras  el trabajo que realizará para usted será del más alto estándar académico.</p>
 <hr>
-<p>Nuestra reputacion habla por si misma. Estamos dedicados a proporcionar la mejor calidad de servicios nuestros clientes. A lo largo del proceso de pedido puede ponerse en contacto regular y fácilmente tanto con su escritor como con nuestro amable y eficiente equipo. Le ayudamos a mantenerse informado sobre su proyecto.</p>
-<p>Nuestra experiencia demuestra que un trabajo es perfecto si cumple con los requisitos específicos del cliente. Mantenemos nuestras promesas de que nuestros escritores leen todas las instrucciones antes de empezar a trabajar. Prestamos la máxima atención a sus instrucciones. Nuestro compromiso junto con las habilidades académicas de nuestros tutores, son laclave para la satisfacción del cliente.</p>
+<p class="big" style="text-align: justify;">Nuestra reputacion habla por si misma. Estamos dedicados a proporcionar la mejor calidad de servicios nuestros clientes. A lo largo del proceso de pedido puede ponerse en contacto regular y fácilmente tanto con su escritor como con nuestro amable y eficiente equipo. Le ayudamos a mantenerse informado sobre su proyecto.</p>
+<p class="big" style="text-align: justify;">Nuestra experiencia demuestra que un trabajo es perfecto si cumple con los requisitos específicos del cliente. Mantenemos nuestras promesas de que nuestros escritores leen todas las instrucciones antes de empezar a trabajar. Prestamos la máxima atención a sus instrucciones. Nuestro compromiso junto con las habilidades académicas de nuestros tutores, son laclave para la satisfacción del cliente.</p>
 </div>
 </div>
 </section>
@@ -83,7 +83,7 @@
 <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#Q1" href="#question1"><span></span>Contamos con equipo altamente profesional</a> </h4>
 </div>
 <div id="question1" class="panel-collapse collapse">
-<div class="panel-body"> <p>Nuestro personal esta altamente calificado, nos permite ofrecerle un servicio eficaz, con excelente calidad, ofreciendo amplia y variada experiencia en las diferentes areas.</p>
+<div class="panel-body"> <p style="text-align: justify;">Nuestro personal esta altamente calificado, nos permite ofrecerle un servicio eficaz, con excelente calidad, ofreciendo amplia y variada experiencia en las diferentes areas.</p>
 </div>
 </div>
 </div>
@@ -92,7 +92,7 @@
 <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#Q1" href="#question2"><span></span>Estamos Comprometidos </a> </h4>
 </div>
 <div id="question2" class="panel-collapse collapse">
-<div class="panel-body"> <p>Nuestro compromiso es ayudarte a obtener los resultados que esperas, por ello analizamos cada caso y se asigna un experto en el área del conocimiento específico, con el fin de brindar el apoyo adecuado cumpliendo con los parámetros de calidad establecidos.</p>
+<div class="panel-body"> <p style="text-align: justify;">Nuestro compromiso es ayudarte a obtener los resultados que esperas, por ello analizamos cada caso y se asigna un experto en el área del conocimiento específico, con el fin de brindar el apoyo adecuado cumpliendo con los parámetros de calidad establecidos.</p>
 </div>
 </div>
 </div>
@@ -101,7 +101,7 @@
 <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#Q1" href="#question3"><span></span>Entregamos los mejores resultados </a> </h4>
 </div>
 <div id="question3" class="panel-collapse collapse">
-<div class="panel-body"> <p>Con nuestro equipo experto, realizamos los trabajos con el mas minimo detalle de revision para que asi usted pueda obtener los resultados que espera.</p>
+<div class="panel-body"> <p style="text-align: justify;">Con nuestro equipo experto, realizamos los trabajos con el mas minimo detalle de revision para que asi usted pueda obtener los resultados que espera.</p>
 </div>
 </div>
 </div>
@@ -110,7 +110,7 @@
 <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#Q1" href="#question4"><span></span>Porque contratar nuestros servicios </a> </h4>
 </div>
 <div id="question4" class="panel-collapse collapse">
-<div class="panel-body"> <p>Tienes dos opciones: intentar, luchar y desistir o contratar un servicio especializado de asesoría académica e intelectual como el nuestro, contando con un equipo humano de trayectoria de la mano con usted, encaminado a la consecución de los resultados esperados.</p>
+<div class="panel-body"> <p style="text-align: justify;">Tienes dos opciones: intentar, luchar y desistir o contratar un servicio especializado de asesoría académica e intelectual como el nuestro, contando con un equipo humano de trayectoria de la mano con usted, encaminado a la consecución de los resultados esperados.</p>
 </div>
 </div>
 </div>

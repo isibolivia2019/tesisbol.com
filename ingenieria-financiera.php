@@ -66,8 +66,8 @@
 <div class="col-md-8 col-sm-12 col-xs-12 ">
 <h2 class="text-capitalize">Ingenieria Financiera</h2>
 <hr class="light">
-<p>La ingeniería financiera consiste en la utilización de instrumentos del área financiera para reestructurar un perfil financiero de las finanzas existentes y obtener otro con propiedades más deseables, que consiste en la transformación o combinación de instrumentos financieros preexistentes que es cuando existe ante un determinado momento para conseguir un nuevo aparato diseñado para ser empleado en una actividad concreta con determinados objetivos.</p>
-<p>La ingeniería financiera es la técnica que permite aumentar o incrementar la productividad financiera de la empresa mediante la utilización de los diferentes instrumentos y técnicas, para saciar una necesidad y buscar la mejor manera de realizar una actividad, el logro de fondos propios y la aportación del dinero necesario del desarrollo de una empresa, proyecto u otra actividad de una adquisición.</p>
+<p style="text-align: justify;">La ingeniería financiera consiste en la utilización de instrumentos del área financiera para reestructurar un perfil financiero de las finanzas existentes y obtener otro con propiedades más deseables, que consiste en la transformación o combinación de instrumentos financieros preexistentes que es cuando existe ante un determinado momento para conseguir un nuevo aparato diseñado para ser empleado en una actividad concreta con determinados objetivos.</p>
+<p style="text-align: justify;">La ingeniería financiera es la técnica que permite aumentar o incrementar la productividad financiera de la empresa mediante la utilización de los diferentes instrumentos y técnicas, para saciar una necesidad y buscar la mejor manera de realizar una actividad, el logro de fondos propios y la aportación del dinero necesario del desarrollo de una empresa, proyecto u otra actividad de una adquisición.</p>
 </div>
 <div class="col-md-4 col-sm-12 col-xs-12">
 <div class="project-data">

@@ -92,19 +92,19 @@
 <div class="container">
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <h3><small>Dinos lo que</small>NECESITAS</h3><span class="line"></span>
-<p>Nuestro compromiso es ayudarte a obtener los resultados que esperas, por ello es de nuestro interes saber todas las necesidades que conlleva tu trabajo.</p>
+<p style="text-align: justify;">Nuestro compromiso es ayudarte a obtener los resultados que esperas, por ello es de nuestro interes saber todas las necesidades que conlleva tu trabajo.</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.75s">
 <h3><small>Nuestros especialistas</small>INVESTIGAN POR TI</h3><span class="line"></span>
-<p>Analizamos cada caso y se asigna un experto en el área del conocimiento específico, con el fin de brindar el apoyo adecuado cumpliendo con los parámetros de calidad establecidos.</p>
+<p style="text-align: justify;">Analizamos cada caso y se asigna un experto en el área del conocimiento específico, con el fin de brindar el apoyo adecuado cumpliendo con los parámetros de calidad establecidos.</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="1s">
 <h3><small>La Investigacion</small> ES REVISADA DETALLADAMENTE</h3><span class="line"></span>
-<p>Garantizamos nuestra redacción, 100% inédita, libre de plagio. Es de autoria intelectual, construida por un experto en el área contratada</p>
+<p style="text-align: justify;">Garantizamos nuestra redacción, 100% inédita, libre de plagio. Es de autoria intelectual, construida por un experto en el área contratada</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="1.25s">
 <h3><small>Recibe tu trabajo</small>EN TIEMPO Y FORMA</h3><span class="line"></span>
-<p>Recibe tu trabajo en el tiempo indicado y finalizado con todas las necesidades que solicitaste.</p>
+<p style="text-align: justify;">Recibe tu trabajo en el tiempo indicado y finalizado con todas las necesidades que solicitaste.</p>
 </div>
 </div>
 </section>
@@ -280,10 +280,10 @@
 <h2><i class="fa fa-building square BGsec"></i>Acerca de Nosotros<small>¿Quienes Somos?</small></h2>
 <div class="clear"></div>
 </div>
-<p>Tesisbol somos grupo de profesionales dedicados a ayudar, orientar y asesorar a estudiantes en sus últimos años en procesos de titulación, o en el desarrollo de cualquier otro trabajo o proyecto.</p>
-<p>Contamos con profesionales de diversas áreas, los cuales cuentan con años de experiencia tanto en docencia, como en comisiones de exámenes de titulo, defensas y grados, en pre grado y post grado.</p>
-​<p>Prestamos ayuda y asesoría en todo ámbito del desarrollo profesional, como también en la confección de memorias, tesis, tesinas, proyectos, entre otros.</p>
-<p>No dude cotizar nuestros servicios y ser parte de una gran experiencia, dejando en manos de expertos su trabajo.</p>
+<p style="text-align: justify;">Tesisbol somos grupo de profesionales dedicados a ayudar, orientar y asesorar a estudiantes en sus últimos años en procesos de titulación, o en el desarrollo de cualquier otro trabajo o proyecto.</p>
+<p style="text-align: justify;">Contamos con profesionales de diversas áreas, los cuales cuentan con años de experiencia tanto en docencia, como en comisiones de exámenes de titulo, defensas y grados, en pre grado y post grado.</p>
+​<p style="text-align: justify;">Prestamos ayuda y asesoría en todo ámbito del desarrollo profesional, como también en la confección de memorias, tesis, tesinas, proyectos, entre otros.</p>
+<p style="text-align: justify;">No dude cotizar nuestros servicios y ser parte de una gran experiencia, dejando en manos de expertos su trabajo.</p>
 <a class="btn btn-primary" href="acerca-de-nosotros.php" title="See All">Leer Mas <i class="fa fa-chevron-circle-right"></i></a>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 content-box wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
