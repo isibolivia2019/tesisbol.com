@@ -74,7 +74,7 @@ Edificio Max Salzman, Piso 4</span>
 
 <div class="copyright wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.50s" data-wow-offset="0">
 <div class="col-md-5 col-sm-6 col-xs-12">
-<p><strong><a href="https://www.templatespoint.net" target="_blank">MARQUIÑO PRINT</a></p>
+<p><strong><a href="https://www.facebook.com/marquino.print.1" target="_blank">MARQUIÑO PRINT</a></p>
 </div>
 </div>
 </div>
