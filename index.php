@@ -37,144 +37,8 @@
 <img src="images/Preloader.gif" alt="Preloader" />
 </div>
 
-<header id="home" class="cbp-af-header header2">
-<div class="header-top BGdark">
-<div class="container">
-<div class="col-md-8 col-sm-12 col-xs-12">
-<span><i class="fa fa-phone"></i> (123) 456-7890 </span>
-<span><i class="fa fa-fax"></i> (123) 456-7890</span>
-<span><i class="fa fa-envelope-o"></i> <a href="##630a0d050c23000c0e13020d1a0d0e064d000c0e" title=""><span class="__cf_email__" data-cfemail="cfa6a1a9a08faca0a2bfaea1b6a1a2aae1aca0a2">[email&#160;protected]</span></a> </span>
-</div>
-<div class="col-md-4 hidden-sm hidden-xs">
-<ul class="social list-inline pull-right">
-<li><a class="fb" href="#" title="Follow Us on Facebook"><i class="fa fa-facebook"></i></a></li>
-<li><a class="tw" href="#" title="Follow Us on Twitter"><i class="fa fa-twitter"></i></a></li>
-<li><a class="yt" href="#" title="Watch Our Videos"><i class="fa fa-youtube-play"></i></a></li>
-<li><a class="pt" href="#" title="Watch Our Videos"><i class="fa fa-pinterest"></i></a></li>
-<li><a class="li" href="#" title="Follow Us on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
-<li><a class="fl" href="#" title="Watch Our gallery"><i class="fa fa-flickr"></i></a></li>
-<li><a class="gplus" href="#" title="Google Plus"><i class="fa fa-google-plus"></i></a></li>
-<li><a class="ig" href="#" title="Watch Our Gallery"><i class="fa fa-instagram"></i></a></li>
-<li><a class="vk" href="#" title="Follow Us on vk"><i class="fa fa-vk"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
 
-<div class="container">
-<div class="col-md-3 col-sm-3 col-xs-12 logo">
-<a title="company Logo" href="index-2.html"><img class="img-responsive" src="images/company.png" width="200" height="100" alt="Company Logo" /></a>
-</div>
-<div class="col-md-9 col-sm-9 col-xs-12 cbp-af-inner rightnav">
-<nav class="navbar navbar-default">
-
-<div class="navbar-header">
-<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-</div>
-
-<div class="collapse navbar-collapse" id="menu">
-
-<ul class="nav navbar-nav">
-<li class="active sub"><a href="#" title="Home">Home</a>
-
-<ul class="sub-nav">
-<li><a href="index-2.html" title="Home Version 1">Home Version 1</a></li>
-<li><a href="index2.html" title="Home Version 2">Home Version 2</a></li>
-<li><a href="index3.html" title="Home Version 3">Home Version 3</a></li>
-<li><a href="index4.html" title="Home Version 4">Home Version 4</a></li>
-</ul>
-
-</li>
-<li class="sub"><a href="#" title="About">About</a>
-
-<ul class="sub-nav">
-<li><a href="about1.html" title="About Us">About 1</a></li>
-<li><a href="about2.html" title="About Us">About 2</a></li>
-<li class="sub"><a href="#" title="Team">Team</a>
-
-<ul class="sub-nav">
-<li><a href="team1.html" title="Team 1">Team Hover 1</a></li>
-<li><a href="team2.html" title="Team 2">Team Hover 2</a></li>
-<li><a href="team3.html" title="Team 1">Team Hover 3</a></li>
-<li><a href="team-single.html" title="John Doe">Team Single</a></li>
-</ul>
-
-</li>
-</ul>
-
-</li>
-<li class="sub"><a href="#" title="Pages">Pages</a>
-
-<ul class="sub-nav">
-<li class="sub"><a href="#" title="Service">Services</a>
-
-<ul class="sub-nav">
-<li><a href="services.html" title="Service">Services</a></li>
-<li><a href="services-single-1.html" title="Service Sinle Page">Services Single</a></li>
-</ul>
-
-</li>
-<li><a href="testimonials.html" title="Testimonials">Testimonials</a></li>
-<li><a href="faq.html" title="FAQ">FAQ</a></li>
-<li><a href="clients.html" title="Clients">Clients</a></li>
-<li><a href="career.html" title="Career">Career</a></li>
-<li><a href="press.html" title="Press">Press</a></li>
-<li><a href="404.html" title="404" target="_blank">404</a></li>
-<li><a href="sitemap.html" title="Sitemap">Sitemap</a></li>
-<li><a href="elements.html" title="Elements">Elements</a></li>
-</ul>
-
-</li>
-<li class="sub"><a href="#" title="Portfolio">Portfolio</a>
-
-<ul class="sub-nav">
-<li><a href="portfolio-2col.html" title="Portfolio 2 Column"> Portfolio 2 Column</a></li>
-<li><a href="portfolio-3col.html" title="Portfolio 3 Column"> Portfolio 3 Column</a></li>
-<li><a href="portfolio-4col.html" title="Portfolio 4 Column"> Portfolio 4 Column</a></li>
-<li><a href="portfolio-full-width.html" title="Portfolio Full Width"> Portfolio Full Width</a></li>
-<li><a href="portfolio1.html" title="Portfolio Single 1">Portfolio Single 1</a></li>
-<li><a href="portfolio2.html" title="Portfolio Single 2">Portfolio Single 2</a></li>
-</ul>
-
-</li>
-<li class="sub"><a href="#" title="Gallery">Gallery</a>
-
-<ul class="sub-nav">
-<li><a href="gallery4.html" title="Gallery 4 Column">Gallery 4 Column</a></li>
-<li><a href="gallery3.html" title="Gallery 3 Column">Gallery 3 Column</a></li>
-<li><a href="gallery2.html" title="Gallery 2 Column">Gallery 2 Column</a></li>
-<li><a href="gallery-full-width.html" title="Gallery Full Width">Gallery Full Width</a></li>
-</ul>
-
-</li>
-<li class="sub"><a href="#" title="Blog">Blog</a>
-
-<ul class="sub-nav">
-<li><a href="blog.html" title="Gallery 4 Column">Blog Main</a></li>
-<li><a href="blog-single.html" title="Gallery 3 Column">Single Post</a></li>
-</ul>
-
-</li>
-<li class="sub"><a href="#" title="Contact">Contact</a>
-
-<ul class="sub-nav">
-<li><a href="contact1.html" title="Contact">Contact 1</a></li>
-<li><a href="contact2.html" title="Contact">Contact 2</a></li>
-</ul>
-
-</li>
-</ul>
-
-</div>
-</nav>
-</div>
-</div>
-</header>
+<?php require("public-header.php");?>
 
 
 <section id="slides" class="BGdark">
@@ -228,7 +92,7 @@
 <div class="container">
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <h3><small>Dinos lo que</small>NECESITAS</h3><span class="line"></span>
-<p>Nuestro compromiso es ayudarte a obtener los resultados que esperas.</p>
+<p>Nuestro compromiso es ayudarte a obtener los resultados que esperas, por ello es de nuestro interes saber todas las necesidades que conlleva tu trabajo.</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.75s">
 <h3><small>Nuestros especialistas</small>INVESTIGAN POR TI</h3><span class="line"></span>
@@ -236,11 +100,11 @@
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="1s">
 <h3><small>La Investigacion</small> ES REVISADA DETALLADAMENTE</h3><span class="line"></span>
-<p>Quisque sodales ultricies posuere. Vestibulum ante ipsum primis in faucibus orci luctu. Proin scelerisque neque porta astapasta.</p>
+<p>Garantizamos nuestra redacción, 100% inédita, libre de plagio. Es de autoria intelectual, construida por un experto en el área contratada</p>
 </div>
 <div class="col-md-3 col-sm-3 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="1.25s">
 <h3><small>Recibe tu trabajo</small>EN TIEMPO Y FORMA</h3><span class="line"></span>
-<p>Sed bibendum lectus at cursus pharetra. Donec quis auctor mauris. Aenean ultricies elit augue, eget ultrices ante pretium in.</p>
+<p>Recibe tu trabajo en el tiempo indicado y finalizado con todas las necesidades que solicitaste.</p>
 </div>
 </div>
 </section>
@@ -259,72 +123,135 @@
 <div class="container wow zoomIn" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <div class="col-md-12">
 <div class="section-heading">
-<h2><i class="fa fa-paint-brush square BGsec"></i>Our Projects <small>Our latest creation</small></h2>
-<a class="btn btn-primary" href="portfolio-2col.html" title="View All Projects">View All Projects <i class="fa fa-chevron-circle-right"></i></a>
+<h2><i class="fa fa-paint-brush square BGsec"></i>Elaboracion de Tesis<small>variedad de areas de estudio</small></h2>
+<a class="btn btn-primary" href="tesis.php" title="View All Projects">Ver todas las Areas<i class="fa fa-chevron-circle-right"></i></a>
 <div class="clear"></div>
 </div>
 <ul class="bxslider">
 <li>
-<img class="img-responsive" src="images/project/recent-home/01.jpg" width="725" height="475" alt="Project Name" />
+<img class="img-responsive" src="imagenes/tesis/ciencias-economia-financiera.jpg" width="725" height="475" alt="Project Name" />
 <div class="project-data">
 <ul>
-<li><i class="fa fa-building squareSmall outline"></i> <strong>Company</strong>Awesome It Solutions</li>
-<li><i class="fa fa-paint-brush squareSmall outline"></i> <strong>Work Done</strong>Total Infrastructure</li>
-<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duration</strong>2 Week</li>
-<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Cost</strong>$50,000</li>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Ciencias Economicas y Financieras</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
 </ul>
-<a class="btn btn-dark btn-lg" href="portfolio1.html" title="View Details">View Details<i class="fa fa-chevron-circle-right"></i></a>
+<a class="btn btn-dark btn-lg" href="ciencias-economia-financiera.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
 </div>
 </li>
 <li>
-<img class="img-responsive" src="images/project/recent-home/02.jpg" width="725" height="475" alt="Project Name" />
+<img class="img-responsive" src="imagenes/tesis/economia.jpg" width="725" height="475" alt="Project Name" />
 <div class="project-data">
 <ul>
-<li><i class="fa fa-home squareSmall outline"></i> <strong>House</strong>Platinum Eve</li>
-<li><i class="fa fa-paint-brush squareSmall outline"></i> <strong>Work Done</strong>Living Room, Kitchen</li>
-<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duration</strong>2 Week</li>
-<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Cost</strong>$30,000</li>
+<li><i class="fa fa-home squareSmall outline"></i> <strong>Area</strong>Economia</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
 </ul>
-<a class="btn btn-dark btn-lg" href="portfolio2.html" title="View Details">View Details<i class="fa fa-chevron-circle-right"></i></a>
+<a class="btn btn-dark btn-lg" href="economia.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
 </div>
 </li>
 <li>
-<img class="img-responsive" src="images/project/recent-home/03.jpg" width="725" height="475" alt="Project Name" />
+<img class="img-responsive" src="imagenes/tesis/administracion-empresas.jpg" width="725" height="475" alt="Project Name" />
 <div class="project-data">
 <ul>
-<li><i class="fa fa-building squareSmall outline"></i> <strong>Company</strong>Globocom Infotec</li>
-<li><i class="fa fa-paint-brush squareSmall outline"></i> <strong>Work Done</strong>Total Interior</li>
-<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duration</strong>3 Week</li>
-<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Cost</strong>$150,000</li>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Administracion de Empresa</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
 </ul>
-<a class="btn btn-dark btn-lg" href="portfolio3.html" title="View Details">View Details<i class="fa fa-chevron-circle-right"></i></a>
+<a class="btn btn-dark btn-lg" href="administracion-empresas.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
 </div>
 </li>
 <li>
-<img class="img-responsive" src="images/project/recent-home/04.jpg" width="725" height="475" alt="Project Name" />
+<img class="img-responsive" src="imagenes/tesis/contaduria-publica.jpg" width="725" height="475" alt="Project Name" />
 <div class="project-data">
 <ul>
-<li><i class="fa fa-home squareSmall outline"></i> <strong>Bunglow</strong>Lake Avenue</li>
-<li><i class="fa fa-paint-brush squareSmall outline"></i> <strong>Work Done</strong>Total Interior &amp; exterior</li>
-<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duration</strong>3 Week</li>
-<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Cost</strong>$75,000</li>
+<li><i class="fa fa-home squareSmall outline"></i> <strong>Area</strong>Contaduria Publica</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
 </ul>
-<a class="btn btn-dark btn-lg" href="portfolio4.html" title="View Details">View Details<i class="fa fa-chevron-circle-right"></i></a>
+<a class="btn btn-dark btn-lg" href="contaduria-publica.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
 </div>
 </li>
+
+<li>
+<img class="img-responsive" src="imagenes/tesis/ingenieria-financiera.jpg" width="725" height="475" alt="Project Name" />
+<div class="project-data">
+<ul>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Ingenieria Financiera</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
+</ul>
+<a class="btn btn-dark btn-lg" href="ingenieria-financiera.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
+</div>
+</li>
+<li>
+<img class="img-responsive" src="imagenes/tesis/ingenieria-comercial.jpg" width="725" height="475" alt="Project Name" />
+<div class="project-data">
+<ul>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Ingenieria Comercial</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
+</ul>
+<a class="btn btn-dark btn-lg" href="ingenieria-comercial.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
+</div>
+</li>
+<li>
+<img class="img-responsive" src="imagenes/tesis/ingenieria-industrial.jpg" width="725" height="475" alt="Project Name" />
+<div class="project-data">
+<ul>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Ingenieria Industrial</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
+</ul>
+<a class="btn btn-dark btn-lg" href="ingenieria-industrial.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
+</div>
+</li>
+<li>
+<img class="img-responsive" src="imagenes/tesis/ingenieria-petrolera.jpg" width="725" height="475" alt="Project Name" />
+<div class="project-data">
+<ul>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Ingenieria Petrolera</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
+</ul>
+<a class="btn btn-dark btn-lg" href="ingenieria-petrolera.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
+</div>
+</li><li>
+<img class="img-responsive" src="imagenes/tesis/ingenieria-ambiental.jpg" width="725" height="475" alt="Project Name" />
+<div class="project-data">
+<ul>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Ingenieria Ambiental</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
+</ul>
+<a class="btn btn-dark btn-lg" href="ingenieria-ambiental.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
+</div>
+</li>
+<li>
+<img class="img-responsive" src="imagenes/tesis/derecho-ciencias-politicas.jpg" width="725" height="475" alt="Project Name" />
+<div class="project-data">
+<ul>
+<li><i class="fa fa-building squareSmall outline"></i> <strong>Area</strong>Derecho y Ciencias Politicas</li>
+<li><i class="fa fa-calendar squareSmall outline"></i> <strong>Duracion</strong>2 - 3 Meses</li>
+<li><i class="fa fa-dollar squareSmall outline"></i> <strong>Costo</strong>A Cotizar</li>
+</ul>
+<a class="btn btn-dark btn-lg" href="derecho-ciencias-politicas.php" title="View Details">Mas Detalles<i class="fa fa-chevron-circle-right"></i></a>
+</div>
+</li>
+
 </ul>
 </div>
 </div>
 </section>
 
-
+<!--
 <section class="promoBox">
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-6 commercial wow fadeInLeft" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <div class="absShape BGprime opaque">
 <div class="info">
-<h3>Commercial</h3>
+<h3>WHATSAPP</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis quam non tellus ultricies accumsan. Praesent volutpat neque non hendrerit</p>
 </div>
 </div>
@@ -333,7 +260,7 @@
 <div class="col-md-6 residential wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <div class="absShape BGsec opaque">
 <div class="info">
-<h3>Residential</h3>
+<h3>CORREO ELECTRONICO</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis quam non tellus ultricies accumsan. Praesent volutpat neque non hendrerit</p>
 </div>
 </div>
@@ -344,7 +271,7 @@
 </div>
 </div>
 </section>
-
+<!-->
 
 <section class="page-block-large">
 <div class="container">
@@ -357,7 +284,7 @@
 <p>Contamos con profesionales de diversas áreas, los cuales cuentan con años de experiencia tanto en docencia, como en comisiones de exámenes de titulo, defensas y grados, en pre grado y post grado.</p>
 ​<p>Prestamos ayuda y asesoría en todo ámbito del desarrollo profesional, como también en la confección de memorias, tesis, tesinas, proyectos, entre otros.</p>
 <p>No dude cotizar nuestros servicios y ser parte de una gran experiencia, dejando en manos de expertos su trabajo.</p>
-<a class="btn btn-primary" href="about1.html" title="See All">Leer Mas <i class="fa fa-chevron-circle-right"></i></a>
+<a class="btn btn-primary" href="acerca-de-nosotros.php" title="See All">Leer Mas <i class="fa fa-chevron-circle-right"></i></a>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 content-box wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <div class="section-heading">
@@ -386,39 +313,32 @@ El estudiante de medio tiempo podrá egresar exitosamente de su institución sin
 <section class="stat">
 <div class="boxedb page-block">
 <div class="container">
-<div class="col-md-3 col-sm-6 col-xs-12">
-<i class="fa fa-building-o fa-4x"></i>
-<h1 class="timer wow zoomIn" data-wow-delay="500ms" data-from="0" data-to="5" data-speed="4000"></h1>
-<span class="line"></span>
-<h4>Branches</h4>
-Lorem ipsum dolor sit amet, rislaoreetsuscipit turpis mollis non. Lcons is molli
-</div>
-<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="col-md-4 col-sm-4 col-xs-12">
 <i class="fa fa-graduation-cap fa-4x"></i>
-<h1 class="timer wow zoomIn" data-wow-delay="700ms" data-from="0" data-to="50" data-speed="4000"></h1>
+<h1 class="timer wow zoomIn" data-wow-delay="700ms" data-from="0" data-to="10" data-speed="4000"></h1>
 <span class="line"></span>
-<h4>Experts</h4>
-Noligula sapien, placerat nec quam sit amet, venenatis mattis nunc. Nulla molestie, velit et commodo rutrum
+<h4>Porfesionales</h4>
+Trabajan con nosotros para poder realizar todo tipo de proyecto. 
 </div>
-<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="col-md-4 col-sm-4 col-xs-12">
 <i class="fa fa-diamond fa-4x"></i>
-<h1 class="timer wow zoomIn" data-wow-delay="900ms" data-from="0" data-to="500" data-speed="4000"></h1>
+<h1 class="timer wow zoomIn" data-wow-delay="900ms" data-from="0" data-to="201" data-speed="4000"></h1>
 <span class="line"></span>
-<h4>Clients</h4>
-Eante ipsum faucibus sapien, eget porttitorerat vitae nisi. Phasellus vel gravida quam, porttitor rhoncus tortor.
+<h4>Clientes</h4>
+Acudieron a nosotros y les brindamos la mejor atencion y servicio para poder realizar sus proyectos.
 </div>
-<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="col-md-4 col-sm-4 col-xs-12">
 <i class="fa fa-paint-brush fa-4x"></i>
-<h1 class="timer wow zoomIn" data-wow-delay="1100ms" data-from="0" data-to="1500" data-speed="4000"></h1>
+<h1 class="timer wow zoomIn" data-wow-delay="1100ms" data-from="0" data-to="219" data-speed="4000"></h1>
 <span class="line"></span>
-<h4>Projects</h4>
-Curabitur facilisis sit amet arcu ut commodo. Nullam a ante quis sem ullamcorper tristique.
+<h4>Proyectos</h4>
+Realizados en diferentes areas, con el cual se logro el objetivo deseado.
 </div>
 </div>
 </div>
 </section>
 
-
+<!--
 <section id="testimonials" class="smallSlider page-block-large">
 <div class="container wow zoomIn" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <div class="col-md-12">
@@ -480,123 +400,29 @@ Curabitur facilisis sit amet arcu ut commodo. Nullam a ante quis sem ullamcorper
 </div>
 </div>
 </section>
-
+<!-->
 
 <section class="client page-block">
 <div class="container">
 <div class="col-md-5 col-sm-5 col-xs-12 wow fadeInLeft" data-wow-duration="0.50s" data-wow-delay="0.50s">
-<h2><i class="fa fa-diamond square BGsec"></i>Clients <small>Precious &amp; Happy clients</small></h2>
+<h2><i class="fa fa-diamond square BGsec"></i>Universidades <small>a nivel Bolivia</small></h2>
 </div>
 <div class="col-md-7 col-sm-7 col-xs-12 wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
 <div class="slider4">
-<div class="slide"><img src="images/clients/01.png" alt="Client name"></div>
-<div class="slide"><img src="images/clients/02.png" alt="Client name"></div>
-<div class="slide"><img src="images/clients/03.png" alt="Client name"></div>
-<div class="slide"><img src="images/clients/04.png" alt="Client name"></div>
-<div class="slide"><img src="images/clients/05.png" alt="Client name"></div>
-<div class="slide"><img src="images/clients/06.png" alt="Client name"></div>
-<div class="slide"><img src="images/clients/07.png" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-1.jpg" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-2.jpg" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-3.jpg" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-4.jpg" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-5.jpg" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-6.jpg" alt="Client name"></div>
+<div class="slide"><img src="imagenes/clientes/u-7.jpg" alt="Client name"></div>
 </div>
 </div>
 </div>
 </section>
 
+<?php require("public-footer.php");?>
 
-<section class="calltoAction">
-<div class="boxedw page-block">
-<div class="container">
-<div class="widget wow fadeInLeft" data-wow-duration="0.50s" data-wow-delay="0.50s">
-<h2>Get A Quote<small>With Experts Advice</small></h2>
-<p>Lorem ipsu Pellentesque dolor sit amet, consectetur adipiscing elit. Integer gravida velit quis dolor tristique </p>
-<a class="btn btn-primary" href="contact1.html" title="Get A Quote">Get A Quote <i class="fa fa-chevron-circle-right"></i></a>
-<i class="fa fa-file opaque"></i>
-</div>
-<div class="widget wow fadeInRight" data-wow-duration="0.50s" data-wow-delay="0.50s">
-<h2>Subscribe<small>to Enewsletter</small></h2>
-<form action="#" id="subscribeForm" method="post">
-<div class="form-row">
-<input type="email" id="emailSubscribe" name="emailSubscribe" class="form-control" placeholder="Enter Your Email Address Here..." />
-<input type="text" id="sub-security" name="sub-security" class="form-control hide" value="" />
-<input type="submit" id="sub-submit" name="sub-submit" value="Subscribe &#xf138;" class="btn btn-primary" />
-</div>
-</form>
-<i class="fa fa-envelope opaque"></i>
-</div>
-</div>
-</div> 
-</section>
-
-
-<footer class="footer2 BGdark page-block-small">
-<div class="container">
-<div class="col-md-12 col-sm-12 col-xs-12 wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.50s">
-<img class="img-responsive pull-left" src="images/company-grey.png" width="200" height="50" alt="" />
-<ul class="social list-inline pull-right">
-<li><a class="fb" href="#" title="Follow Us on Facebook" data-toggle="tooltip" data-placement="top"><i class="fa fa-facebook"></i></a></li>
-<li><a class="tw" href="#" title="Follow Us on Twitter" data-toggle="tooltip" data-placement="top"><i class="fa fa-twitter"></i></a></li>
-<li><a class="yt" href="#" title="Watch Our Videos" data-toggle="tooltip" data-placement="top"><i class="fa fa-youtube-play"></i></a></li>
-<li><a class="pt" href="#" title="Watch Our Videos" data-toggle="tooltip" data-placement="top"><i class="fa fa-pinterest"></i></a></li>
-<li><a class="li" href="#" title="Follow Us on LinkedIn" data-toggle="tooltip" data-placement="top"><i class="fa fa-linkedin"></i></a></li>
-<li><a class="fl" href="#" title="Watch Our gallery" data-toggle="tooltip" data-placement="top"><i class="fa fa-flickr"></i></a></li>
-<li><a class="gplus" href="#" title="Google Plus" data-toggle="tooltip" data-placement="top"><i class="fa fa-google-plus"></i></a></li>
-<li><a class="ig" href="#" title="Watch Our Gallery" data-toggle="tooltip" data-placement="top"><i class="fa fa-instagram"></i></a></li>
-<li><a class="vk" href="#" title="Follow Us on vk" data-toggle="tooltip" data-placement="top"><i class="fa fa-vk"></i></a></li>
-</ul>
-<div class="clear"></div>
-<hr class="light">
-</div>
-<div class="col-md-4 col-sm-12 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.50s">
-<h5>About</h5>
-<p>Lorem ipsum dolor sit amet, rislaoreetsuscipit turpis mollis non. Lcons is molli Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis quam non tellus ultricies accumsan. Lorem Loripiscing elit. Maecenas quis quam non tellus ultricies accumsan.</p>
-<a href="about2.html" title="About Company">Read More <i class="fa fa-chevron-circle-right"></i></a>
-</div>
-<div class="col-md-2 col-sm-3 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.75s">
-<h5>Quick Links</h5>
-<ul>
-<li><a href="portfolio-4col.html" title="Portfolio">Portfolio</a></li>
-<li><a href="gallery-full-width.html" title="Gallery Full Width">Gallery</a></li>
-<li><a href="blog.html" title="Blog">Blog</a></li>
-<li><a href="press.html">Press</a></li>
-<li><a href="contact2.html" title="Contact">Contact</a></li>
-</ul>
-</div>
-<div class="col-md-3 col-sm-5 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="1s">
-<h5>Services</h5>
-<ul>
-<li><a href="services-single-1.html" title="Commercial design">Commercial Interior Design</a></li>
-<li><a href="services-single-2.html" title="Interior design">Residential Interior Design</a></li>
-<li><a href="services-single-3.html" title="Exterior design">Exterior design</a></li>
-<li><a href="services-single-4.html" title="Renovation">Renovation</a></li>
-<li><a href="services-single-4.html" title="Maintainance">Annual Maintainance</a></li>
-</ul>
-</div>
-<div class="col-md-3 col-sm-4 col-xs-12 content-box wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="1.25s">
-<h5>Get in touch</h5>
-<div class="office">
-<span><i class="fa fa-map-marker"></i> 123 Main Street<br>
-Your City, State Country.</span>
-<span><i class="fa fa-phone"></i> (123) 456-7890 <br>(123) 456-7890 </span>
-<span><i class="fa fa-fax"></i> (123) 456-7890</span>
-<span><i class="fa fa-envelope-o"></i> <a href="##d1b8bfb7be91b2bebca1b0bfa8bfbcb4ffb2bebc" title=""><span class="__cf_email__" data-cfemail="f39a9d959cb3909c9e83929d8a9d9e96dd909c9e">[email&#160;protected]</span></a> </span>
-</div>
-</div>
-<div class="clear"></div>
-<hr class="light">
-
-<div class="copyright wow fadeInUp" data-wow-duration="0.50s" data-wow-delay="0.50s" data-wow-offset="0">
-<div class="col-md-5 col-sm-6 col-xs-12">
-<p><strong><a href="https://www.templatespoint.net" target="_blank">Templates Point</a></p>
-</div>
-<div class="col-md-7 col-sm-6 col-xs-12 text-right">
-<ul class="list-inline">
-<li><a href="terms.html" title="Terms & Conditions">Terms &amp; Conditions</a></li>
-<li><a href="privacy.html" title="Privacy Policy">Privacy Policy</a></li>
-<li><a href="sitemap.html" title="Sitemap">Sitemap</a></li>
-</ul>
-</div>
-</div>
-</div>
-</footer>
 
 <a href="#top" class="top"><i class="fa fa-angle-up fa-lg"></i></a>
 
