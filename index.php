@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <title>:: BIENVENIDO ::</title>
 <meta name="description" content="Welcome to Striking Interior Design Template">
-<meta name="keywords" content="interior, design, services, expert, analysis, structure, luxury, home, kitchen, berdroom, living room, bathroom, kid, office, infrastructure">
+<meta name="keywords" content="tesis, tesis bolivia, TESIS BOLIVA, tesisbol.com, tesisbol, tesis la paz, ayuda tesis, Tesis Bolivia, hacer tesis, tesis hacer, mi tesis, apoyo tesis, realizar tesis">
 <meta name="author" content="Saptarang">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
