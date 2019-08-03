@@ -58,7 +58,7 @@
 </li>
 
 <li class="sub"><a href="contactos.php" title="Contactos">Contactos</a>
-
+<li class="sub"><a href="https://api.whatsapp.com/send?phone=59175237123&text=Requiero mas informacion porfavor. Mi nombre es " title="Whatsapp">Whatsapp</a>
 </li>
 </ul>
 
