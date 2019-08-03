@@ -56,11 +56,11 @@
 
 
 <section id="project-single" class="">
-<div class="project-info BGsec page-block-large wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.50s">
+<div class="project-info BGprime page-block-large wow fadeInDown" data-wow-duration="0.50s" data-wow-delay="0.50s">
 
 <div class="absShape navigation">
-<a href="portfolio1.html" title="Previous"><i class="fa fa-angle-left square BGlight"></i></a>
-<a href="portfolio3.html" title="Next"><i class="fa fa-angle-right square BGlight"></i></a>
+<a href="economia.php" title="Previous"><i class="fa fa-angle-left square BGlight"></i></a>
+<a href="contaduria-publica.php" title="Next"><i class="fa fa-angle-right square BGlight"></i></a>
 </div>
 <div class="container">
 <div class="col-md-8 col-sm-12 col-xs-12 ">

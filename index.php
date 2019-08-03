@@ -44,7 +44,7 @@
 <section id="slides" class="BGdark">
 <ul class="bxslider">
 <li>
-<img class="img-responsive" src="imagenes/slider/slider-1.jpg" alt="" />
+<img class="img-responsive" src="imagenes/universidades/umsa.jpg" alt="" />
 <div class="symbol">
 <div class="absShape text-center">
 <h1>Realiza<small>TU TESIS HOY !</small></h1>
@@ -55,7 +55,7 @@
 </div>
 </li>
 <li>
-<img class="img-responsive" src="imagenes/slider/slider-2.jpg" alt="" />
+<img class="img-responsive" src="imagenes/universidades/salesiana.jpg" alt="" />
 <div class="symbol">
 <div class="absShape text-center">
 <h1>Relajate mientras<small>hacemos tus proyectos de grado</small></h1>
@@ -67,7 +67,7 @@
 </div>
 </li>
 <li>
-<img class="img-responsive" src="imagenes/slider/slider-3.jpg" alt="" />
+<img class="img-responsive" src="imagenes/universidades/ucb.jpg" alt="" />
 <div class="symbol">
 <div class="absShape text-center">
 <h1>Contamos con Profesionales<small>en todas las areas academicas</small></h1>
