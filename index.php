@@ -44,7 +44,7 @@
 <section id="slides" class="BGdark">
 <ul class="bxslider">
 <li>
-<img class="img-responsive" src="imagenes/universidades/umsa.jpg" alt="" />
+<img class="img-responsive" src="imagenes/universidades/umsaa.jpg" alt="" />
 <div class="symbol">
 <div class="absShape text-center">
 <h1>Realiza<small>TU TESIS HOY !</small></h1>

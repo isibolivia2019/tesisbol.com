@@ -35,7 +35,7 @@
 <div class="collapse navbar-collapse" id="menu">
 
 <ul class="nav navbar-nav">
-<li class="active sub"><a href="index.php" title="Inicio">Inicio</a>
+<li class="active"><a href="index.php" title="Inicio">Inicio</a>
 </li>
 
 <li class="sub"><a href="#" title="Portfolio">Tesis en</a>
@@ -54,11 +54,12 @@
 </ul>
 
 </li>
-<li class="sub"><a href="acerca-de-nosotros.php" title="Acerca de Nosotros">Acerca de Nosotros</a>
+<li><a href="acerca-de-nosotros.php" title="Acerca de Nosotros">Acerca de Nosotros</a>
 </li>
 
-<li class="sub"><a href="contactos.php" title="Contactos">Contactos</a>
-<li class="sub"><a href="https://api.whatsapp.com/send?phone=59175237123&text=Requiero mas informacion porfavor. Mi nombre es " title="Whatsapp">Whatsapp</a>
+<li><a href="contactos.php" title="Contactos">Contactos</a>
+</li>
+<li><a href="https://api.whatsapp.com/send?phone=59175237123&text=Requiero mas informacion porfavor. Mi nombre es " title="Whatsapp"><i class="fa fa-whatsapp fa-2x" style="color:green"></i></a>
 </li>
 </ul>
 
@@ -67,3 +68,4 @@
 </div>
 </div>
 </header>
+
