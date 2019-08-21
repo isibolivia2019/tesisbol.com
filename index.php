@@ -55,7 +55,30 @@
 </div>
 </li>
 <li>
-<img class="img-responsive" src="imagenes/universidades/salesiana.jpg" alt="" />
+<img class="img-responsive" src="imagenes/universidades/upea.jpg" alt="" />
+<div class="symbol">
+<div class="absShape text-center">
+<h1>Realiza<small>TU TESIS HOY !</small></h1>
+</div>
+<div class="square3 opaque"></div>
+<div class="square2 opaque"></div>
+<div class="square1 opaque"></div>
+</div>
+</li>
+<li>
+<img class="img-responsive" src="imagenes/universidades/upb.jpg" alt="" />
+<div class="symbol">
+<div class="absShape text-center">
+<h1>Relajate mientras<small>hacemos tus proyectos de grado</small></h1>
+</div>
+<div class="square2 opaque"></div>
+<div class="square1 opaque"></div>
+<div class="square3 opaque"></div>
+
+</div>
+</li>
+<li>
+<img class="img-responsive" src="imagenes/universidades/udabol.jpg" alt="" />
 <div class="symbol">
 <div class="absShape text-center">
 <h1>Relajate mientras<small>hacemos tus proyectos de grado</small></h1>
